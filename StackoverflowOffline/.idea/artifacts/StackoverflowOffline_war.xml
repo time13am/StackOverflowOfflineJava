@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="StackoverflowOffline:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="StackoverflowOffline-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="StackoverflowOffline:war exploded" />
+    </root>
+  </artifact>
+</component>
